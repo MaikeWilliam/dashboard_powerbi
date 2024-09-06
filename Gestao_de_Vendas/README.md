@@ -4,8 +4,8 @@
 
 - **Valor faturado total**
 - **Comissão e Ticket Médio**
-- **Faturamento total por Loja?**
-- **Faturamento total por Tipo de Pagamento (Cartão de Crédito ou Transferência/Pix)?**
+- **Faturamento total por Loja**
+- **Faturamento total por Tipo de Pagamento (Cartão de Crédito ou Transferência/Pix)**
 - **Faturamento total por período**
 - **Análise percentual por produto**
 
